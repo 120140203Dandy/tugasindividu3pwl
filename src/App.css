@@ -1,0 +1,26 @@
+/* Styling untuk navigasi */
+nav {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+nav ul {
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+/* Styling untuk footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* Styling tambahan sesuai kebutuhan */
